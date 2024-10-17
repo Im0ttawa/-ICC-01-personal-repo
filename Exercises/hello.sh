@@ -9,7 +9,6 @@ read choice
 case $choice in
             1)
                 echo "Hello Goku";;
-            
             2)
                 echo "hello Vegeta";;
             *)
