@@ -7,15 +7,16 @@ echo 2.Vegeta
 
 read choice
 
-currentUser=$choice
+name=$chocie
 
-if
- $currentUser=1
+if [ $name=1 ]; then
 
-echo Hello, $currentUser, you little monkey !
+echo Hello, Goku, you little monkey !
+
 fi
-if
-$currentUser=2
+
+if [ $name=2 ]; then
 
 echo ITS OVER 9000!
+
 fi
