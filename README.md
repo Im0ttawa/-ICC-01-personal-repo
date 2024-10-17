@@ -1,9 +1,9 @@
-## ICC Student Repository##
+## ICC Student Repository
 
 This is the personal repository of Alex.
 I'll keep updating this repository as I advance through my cybersecurity course.
 
-## File Structure##
+## File Structure
 
 Exercises -> All the scripts, bash, powershell, python go here.
 
